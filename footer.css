@@ -1,0 +1,44 @@
+
+
+.footer .submenu{
+	position:relative;
+	display:block;
+	
+}
+
+
+.footer .submenu li{
+  float:left;
+  left:43%;
+  position:relative;
+  background:grey;
+  border:solid 2px grey;
+  border-radius:20%;
+  margin:4px;
+  padding:2px;
+  transition: background 0.5s ease; 
+}
+.footer .submenu li:first-child:hover{
+	background:#1877f2;
+	border:solid 2px #1877f2;
+}
+
+.footer .submenu li:nth-child(2n):hover{
+	background:#4a76a8;
+	border:solid 2px #4a76a8;
+}
+
+.footer .submenu li:nth-child(3n):hover{
+	background:rgb(204, 40, 133);
+	border:solid 2px rgb(204, 40, 133);
+}
+
+.footer .submenu li:last-child:hover{
+	background:green;
+	border:solid 2px green;
+}
+
+.footer .submenu i{
+  color:white;
+  font-size:100%;
+}

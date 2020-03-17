@@ -1,0 +1,154 @@
+.content{
+	min-height:700px;
+}
+
+.e1{
+	float:left;
+	margin:23px;
+	text-align:center;
+	
+}
+
+
+.e1 a{
+	display:block;
+	background:url(pic/photo_bf1.jpg) no-repeat;
+	width:200px;
+	height:267px;
+	border-radius:30%;
+	transition:background 0.5s ease;
+	
+}
+
+
+.e1 a:hover{
+	
+	background:url(pic/photo_aft1.jpg) no-repeat;
+}
+
+
+.e2{
+	float:left;
+	margin:23px;
+	text-align:center;
+}
+
+.e2 a{
+	display:block;
+	background:url(pic/photo_bf2.jpg) no-repeat;
+	width:200px;
+	height:267px;
+	border-radius:30%;
+	transition:background 0.5s ease;
+}
+
+
+.e2 a:hover{
+	
+	background:url(pic/photo_aft2.jpg) no-repeat;
+}
+
+.e3{
+	float:left;
+	margin:23px;
+	text-align:center;
+}
+
+.e3 a{
+	display:block;
+	background:url(pic/photo_bf3.jpg) no-repeat;
+	width:200px;
+	height:267px;
+	border-radius:30%;
+	transition:background 0.5s ease;
+}
+
+
+.e3 a:hover{
+	
+	background:url(pic/photo_aft3.jpg) no-repeat;
+}
+
+.e4{
+	float:left;
+	margin:23px;
+	text-align:center;
+}
+
+.e4 a{
+	display:block;
+	background:url(pic/photo_bf4.jpg) no-repeat;
+	width:200px;
+	height:267px;
+	border-radius:30%;
+	transition:background 0.5s ease;
+}
+
+
+.e4 a:hover{
+	
+	background:url(pic/photo_aft4.jpg) no-repeat;
+}
+
+.e5{
+	float:left;
+	margin:23px;
+	text-align:center;
+}
+
+.e5 a{
+	display:block;
+	background:url(pic/photo_bf5.jpg) no-repeat;
+	width:200px;
+	height:267px;
+	border-radius:30%;
+	transition:background 0.5s ease;
+}
+
+
+.e5 a:hover{
+	
+	background:url(pic/photo_aft5.jpg) no-repeat;
+}
+
+.e6{
+	float:left;
+	margin:23px;
+	text-align:center;
+}
+
+.e6 a{
+	display:block;
+	background:url(pic/photo_bf6.jpg) no-repeat;
+	width:200px;
+	height:267px;
+	border-radius:30%;
+	transition:background 0.5s ease;
+}
+
+
+.e6 a:hover{
+	
+	background:url(pic/photo_aft6.jpg) no-repeat;
+}
+
+.e7{
+	float:left;
+	margin:23px;
+	text-align:center;
+}
+
+.e7 a{
+	display:block;
+	background:url(pic/photo_bf7.jpg) no-repeat;
+	width:200px;
+	height:267px;
+	border-radius:30%;
+	transition:background 0.5s ease;
+}
+
+
+.e7 a:hover{
+	
+	background:url(pic/photo_aft7.jpg) no-repeat;
+}

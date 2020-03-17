@@ -1,0 +1,82 @@
+.accordion {
+    overflow: hidden;
+    position: relative;
+	width: 100%;
+	background:transparent;
+	
+}
+.accordion li {
+    float: left;
+    overflow: hidden;
+	background:transparent;
+    cursor: pointer;
+    position: relative;
+    z-index: 9;
+}
+.accordion li a {
+    display: block;
+    padding: 0px;
+    margin: 0px;
+	background:transparent;
+}
+.accordion li a img {
+    width: none;
+    height: 400px;
+	background:transparent;
+	
+}
+.accordion li span.accord {
+    background: rgba(0,0,0,0.5);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+	overflow: hidden;
+	
+	
+}
+
+.accordion li span.accord a{
+    margin-top:80%;
+	color:white;
+	text-align:center;
+	/*transform:rotate(-90deg);*/
+	font-size:150%;
+	font-family:'Pacifico', cursive;
+	
+	
+}
+/*
+@media all and (max-width:1000px) and (min-width:769px){
+	.accordion {
+    
+	max-width: 1000px;
+	
+	
+}
+
+}
+
+@media all and (max-width:768px) and (min-width:481px){
+		
+		.accordion {
+    
+	min-width: 481px;
+	
+	
+}
+	
+}*/
+/*
+@media all and (max-width:480px){
+	
+	.accordion {
+	display:none;}
+	
+	
+
+
+	
+}
+*/

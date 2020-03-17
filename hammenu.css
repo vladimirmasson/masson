@@ -1,0 +1,62 @@
+.but{
+			display:block;
+			width:50px; height:50px;
+			position:relative;
+			color:grey;
+			background:transparent;
+			font-size:500%;
+			text-align:center;
+			left:-100px;
+			top:0px;
+			z-index:15;
+			
+		}
+		
+.but:hover{
+			cursor:pointer;
+			
+			
+		}	
+
+.b1{
+			top:-10px;
+			width:400px;
+			margin:3px;
+			position:absolute;
+			background:white;
+			padding:2px;
+			left:-450px;
+			z-index:10;
+			
+		}
+		
+.b1 li{
+		text-align:center;
+		padding:30px;
+		font-size:200%;
+		font-family:'Open Sans Condensed', sans-serif;
+				
+	
+}
+
+.b1 li:hover{
+			background-color: rgba(208,205,205,0.44);
+			color: grey;
+
+}
+.b1 li a{
+		text-decoration:none;
+		color:grey;
+	
+}
+
+		
+@media all and (max-width:480px){
+	.but{left:30px;}
+	
+
+
+}
+		
+
+
